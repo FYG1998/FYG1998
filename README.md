@@ -10,13 +10,13 @@ Here are some ideas :
 - 🔭 I’m currently working on Love view of men and women,Because I'm still single
 - 🌱 我目前正在学习 ...Android...C#...
 - 👯 我正在寻求伙伴一起交流学习 ...
-- 🤔 量变达到质变,久而久之你就是大佬
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 平时偶尔也喜欢打打游戏，王者混混分啥的
+- 💬 量变达到质变,久而久之你就是大佬 ...
+- 📫 How to reach me: ...不喜欢男人联系我
 - 😄 别人不懂我的菜,我懂你的菜
 - ⚡ Fun fact: 桌面上放着JAVA从菜鸟到鸵鸟，C＃从入门到放弃，MySQL从缩小库到跑路，哦还有一盆半死不活的绿萝，那是对防辐射的坚定信仰
 - 🐧 QQ:1011111001011001111011010110001
 - ⚡ Fun fact:还未被渣女欺负过。
 - ⭐座右铭:我们的最终运行结果都是走向死亡,在这过程中多写些方法里面套方法,if里面套if,for里面还套方法if和for,层层嵌套多个线程,再定时加些定时器,实在不行写个算法.
-- 🎵Favorites: 歌名:《演员》 演唱：薛之谦
+- 🎵Favorites: 歌名:《演员》 演唱：薛之谦  歌名:《像我这样的人》演唱：毛不易
 

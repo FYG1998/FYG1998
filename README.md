@@ -6,6 +6,8 @@
 ✨ _不要觉得菜，再某行业，某工作待久了你也很牛逼，这就是质的飞跃_ ✨
 
 `最近写的Android APP Demo` [演示](https://github.com/FYG1998/The) 
+常用工具连接[tools](https://github.com/FYG1998.github.io/indextools.html)
+[threeD](https://github.com/FYG1998.github.io/threeworld.html)
 
 Here are some ideas :
 

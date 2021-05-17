@@ -6,7 +6,7 @@
 ✨ _不要觉得菜，再某行业，某工作待久了你也很牛逼，这就是质的飞跃_ ✨
 
 - `最近写的Android APP Demo` [App演示](https://github.com/FYG1998/The) 
-- `常用工具导航` [tools](https://FYG1998.github.io/indextools.html)
+- `常用工具导航` [Tools](https://FYG1998.github.io/indextools.html)
 
 
 Here are some ideas :
@@ -17,7 +17,7 @@ Here are some ideas :
 - 🤔 平时偶尔也喜欢打打游戏，王者混混分啥的
 - 💬 量变达到质变,久而久之你就是大佬 ...
 - 📫 How to reach me: 
-- 😄 别人不懂我的菜,我懂你的菜
+- 😄 别人不懂我的菜
 - ⚡ Fun fact: 桌面上放着JAVA从菜鸟到鸵鸟，C＃从入门到放弃，MySQL从缩小库到跑路，哦还有一盆半死不活的绿萝，那是对防辐射的坚定信仰
 - ⭐座右铭:如果冬天来了，春天还会远吗
 - 🎵Favorites: [歌名:《演员》 演唱：薛之谦](https://music.163.com/#/song?id=32507038) *** [歌名:《像我这样的人》演唱：毛不易](https://music.163.com/#/song?id=569213220)

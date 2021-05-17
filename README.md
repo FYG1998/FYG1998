@@ -7,6 +7,7 @@
 
 - `最近写的Android APP Demo` [App演示](https://github.com/FYG1998/The) 
 - `常用工具导航` [tools](https://FYG1998.github.io/indextools.html)
+- `404html` [404](https://fyg1998.github.io/m404.html)
 - `three.js写的3D 地球` [threeD](https://FYG1998.github.io/threeworld.html)
 
 Here are some ideas :

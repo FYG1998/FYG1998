@@ -5,8 +5,8 @@
 
 ✨ _不要觉得菜，再某行业，某工作待久了你也很牛逼，这就是质的飞跃_ ✨
 
-- `最近写的Android APP Demo` [App演示](https://github.com/FYG1998/The) 
-- `常用工具导航` [Tools](https://FYG1998.github.io/indextools.html)
+- `最近写的Android APP Demo` [App演示](https://github.com/naiop/The) 
+- `常用工具导航` [Tools](https://naiop.github.io/mindex/indextools.html)
 
 
 Here are some ideas :

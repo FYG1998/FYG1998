@@ -22,5 +22,7 @@ Here are some ideas :
 - 😄 别人不懂我的菜
 - 🎵Favorites: [歌名:《演员》 演唱：薛之谦](https://music.163.com/#/song?id=32507038) *** [歌名:《像我这样的人》演唱：毛不易](https://music.163.com/#/song?id=569213220)
 
+🚀 Deploy🎉 Init🐛 Loader > Fix⬆️ Update dependencies🏗️ Switch to webpack📝 Readme > Fix development📄 Add license✨ Add✏️ Site > Fix typo🔧 Add file🥚 2💄 站点 > 文件树 >🍱 站点 > 文件树 > 添的支持🚧🎨 Site > build and add example ⚡️
+
 
 
